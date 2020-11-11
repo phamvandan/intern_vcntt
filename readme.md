@@ -8,7 +8,7 @@
 ```
 ## Deep learning word embedding 
 ```
-    Worec CBOW
+    Word2vec CBOW
     Word2vec skip gram
     Glove
     FastText skip gram
