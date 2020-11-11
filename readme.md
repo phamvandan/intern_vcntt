@@ -1,4 +1,4 @@
-# Implementation f scratch
+# Implementation from scratch
 ## Traditional word embedding 
 ```
     Bag words
@@ -15,6 +15,5 @@
 ```
 ## Text classification using pretrained word embedding
 ```  
-    Sentiment Text Classification from kaggle competition using 
-    pretrained FastText word embedding and LSTM backbone.
+    Sentiment Text Classification from kaggle competition using pretrained FastText word embedding and LSTM backbone.
 ```
